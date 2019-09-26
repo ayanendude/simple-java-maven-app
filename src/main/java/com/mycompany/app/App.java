@@ -9,7 +9,7 @@ public class App
     private final String message = "Hello World!";
 
     public App() {}
-    App A1 = new App();
+    // App A1 = new App();
     App A2 = new App();
 
 
